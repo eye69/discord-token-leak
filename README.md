@@ -1,2 +1,2 @@
 # discordAlertTesting
-Discord bot token leak alerts.
+NzAxNTc2MjU4MDM0NzI4OTkw.XqDLCg.n_kHafs9Yk1ZR2zuTH-XPaJkPME
